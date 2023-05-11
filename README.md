@@ -6,4 +6,4 @@ There is an option to apply an unlimited number of find and replace operations o
 
 If you want to download All in One WP Migration latest version, then please visit plugin [official link here](https://wordpress.org/plugins/all-in-one-wp-migration/).
 
-This is a Old verion of All in One WP Migration with custom file size limit. Using this version, you can restored any size of the backup without any issues.
+This is a Old version of All in One WP Migration with custom file size limit. Using this version, you can restore any size less than 10 GB
